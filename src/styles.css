@@ -22,12 +22,10 @@ button:hover {
   cursor: pointer;
 }
 
-p {
-  margin-right: 8px;
-}
-
-li {
-  list-style-type: square;
+ul,
+li,
+.incomplete-list {
+  list-style: square;
 }
 
 .input-area {
