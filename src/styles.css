@@ -22,8 +22,6 @@ button:hover {
   cursor: pointer;
 }
 
-ul,
-li,
 .incomplete-list {
   list-style: square;
 }
