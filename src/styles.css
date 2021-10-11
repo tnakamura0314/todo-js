@@ -16,6 +16,10 @@ button {
   margin-right: 8px;
 }
 
+li {
+  list-style: square;
+}
+
 button:hover {
   background-color: #ff7f50;
   color: #fff;
