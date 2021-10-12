@@ -72,6 +72,7 @@ const createIncompleteList = (text) => {
     //戻すbuttonタグの生成
     const backButton = document.createElement("button");
     backButton.innerHTML = "戻す";
+    backButton.className = "back-button";
 
     // 戻すボタンの実装
     backButton.addEventListener("click", () => {
